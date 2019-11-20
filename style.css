@@ -22,11 +22,12 @@
 }
 h1
 {
-  font-family: "Bebas Neue";
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bold;
-  font-style: italic;
 }
 h2
 {
+  font-style: italic;
+
 
 }
