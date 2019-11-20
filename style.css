@@ -53,7 +53,8 @@ h1
   font-weight: bold;
   text-align: center;
   background-color: rgb(71, 71, 71);
-  color: whitesmoke
+  color: whitesmoke;
+  font-size: larger;
 
 }
 h2
