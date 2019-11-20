@@ -54,7 +54,9 @@ h1
   text-align: center;
   background-color: rgb(71, 71, 71);
   color: whitesmoke;
-  font-size: larger;
+  font-size: xx-large;
+  padding: 2%;
+ 
 
 }
 h2
@@ -63,6 +65,7 @@ h2
   text-align: center;
   background-color: whitesmoke;
   color: rgb(71, 71, 71); 
+  padding: 2%;
 
 
 
