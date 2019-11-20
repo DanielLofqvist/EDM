@@ -53,7 +53,11 @@ h1
   font-weight: bold;
   text-align: center;
   background-color: rgb(71, 71, 71);
-  color: whitesmoke
+  color: whitesmoke;
+  font-size: xx-large;
+  padding: 2%;
+  
+ 
 
 }
 h2
@@ -62,7 +66,7 @@ h2
   text-align: center;
   background-color: whitesmoke;
   color: rgb(71, 71, 71); 
-
+background-image: cross-fade();
 
 
 }
