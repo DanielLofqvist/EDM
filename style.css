@@ -19,4 +19,9 @@
     margin: 1%;
     padding: 2%;
     font-family: 'Varela Round', sans-serif;
+    opacity: 0.5;
+transition: 0.5s;
+}
+.slide1, .slide2, .slide3:hover {
+opacity: 1;
 }
